@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1718470356247,
+      "username": "John niga",
+      "password": "12345"
+    },
+    {
+      "id": 1718470473514,
+      "username": "Joe niga",
+      "password": "12345"
+    },
+    {
+      "id": 1718470576036,
+      "username": "Joe ninja",
+      "password": "12345",
+      "to": "bobo"
+    },
+    {
+      "id": 1718470700456,
+      "username": "Joe biden",
+      "password": "12345"
+    }
+  ],
+  "books": [
+    {
+      "id": 1718473189196,
+      "title": "Falling2",
+      "author": "Tinubu",
+      "loanedTo": null
+    }
+  ]
+}
